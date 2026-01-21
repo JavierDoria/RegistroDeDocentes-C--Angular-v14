@@ -1,0 +1,6 @@
+@CRUD_C__Angular_HostAddress = http://localhost:5186
+
+GET {{CRUD_C__Angular_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
